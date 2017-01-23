@@ -1,5 +1,4 @@
 # Change Log
-
 ## 7.1.2 (January 23, 2017)
   - Patch: Proper Angular icon version was not correctly applied when autodetection took place.  ([@JimiC](https://github.com/JimiC) in [#667](https://github.com/vscode-icons/vscode-icons/pull/667))
   - Fix: Readme spelling and grammar. ([@JimiC](https://github.com/JimiC) in [#664](https://github.com/vscode-icons/vscode-icons/pull/664))
